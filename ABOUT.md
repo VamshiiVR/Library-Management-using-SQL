@@ -4,7 +4,23 @@ Welcome to Music Data Insights, a showcase of my expertise in using SQL to tackl
 Through this work, I’ve addressed a variety of real-world scenarios, applying SQL to unlock critical insights that drive decision-making and operational improvements. From analyzing customer behaviors to optimizing sales strategies, each solution highlights my ability to transform raw data into valuable business intelligence.
 
 **RDBMS:** Postgresql
+
 **Approach:** Data Exploration
+
+# Highlights
+- **Joins**: Different types of joins (e.g., `INNER JOIN`) are used to merge data from multiple tables such as customers, invoices, tracks, and genres.
+  
+- **Aggregations**: Functions like `SUM()`, `COUNT()`, and `AVG()` are employed to calculate totals (e.g., total sales, number of purchases, track lengths).
+
+- **Ranking and Segmentation**: Window functions like `ROW_NUMBER()` and `RANK()` help identify top performers (e.g., customers, employees, genres) within specific groups.
+
+- **Filtering and Conditions**: `WHERE` and `HAVING` clauses are used to filter data based on certain conditions (e.g., track length exceeding the average, specific genres or countries).
+
+- **Subqueries and CTEs**: Common Table Expressions (`WITH` clauses) and subqueries help manage complex logic and calculations, like determining the most popular genres or best-selling artists.
+
+- **Grouping and Sorting**: `GROUP BY` and `ORDER BY` are used to categorize data (e.g., by country, artist, or genre) and sort it based on desired metrics (e.g., total spending, track count).
+
+- **Limiting Results**: `LIMIT` is used to restrict the number of rows returned, focusing on top results (e.g., top customers, highest-selling genres).
 
 # Database Schema
 Here are descriptions of the database tables:
