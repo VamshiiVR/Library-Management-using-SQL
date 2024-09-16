@@ -3,6 +3,9 @@ Welcome to Music Data Insights, a showcase of my expertise in using SQL to tackl
 
 Through this work, I’ve addressed a variety of real-world scenarios, applying SQL to unlock critical insights that drive decision-making and operational improvements. From analyzing customer behaviors to optimizing sales strategies, each solution highlights my ability to transform raw data into valuable business intelligence.
 
+**RDBMS:** Postgresql
+**Approach:** Data Exploration
+
 # Database Schema
 Here are descriptions of the database tables:
 
@@ -27,6 +30,8 @@ Here are descriptions of the database tables:
 **Playlist Track:** Associates tracks with playlists, linking track IDs to playlist IDs.
 
 **Track:** Contains information about individual tracks, including the album, genre, media type, and pricing.
+
+![Music label ERD](https://github.com/user-attachments/assets/d32a39eb-3a98-4efc-b61f-b839b8827457)
 
 # Scenarios and Approach
 **Scenario 1**: Sales aims to pinpoint the top-spending customers to offer them exclusive discounts. 
