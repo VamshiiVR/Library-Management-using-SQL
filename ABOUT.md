@@ -1,4 +1,4 @@
-# Music Management Suite using SQL
+# Music Management Suite with SQL
 Welcome to Music Data Insights, a showcase of my expertise in using SQL to tackle key data challenges within the music industry. This project features a well-structured database encompassing essential business components like artist and album management, customer interactions, sales records, and employee performance.
 
 Through this work, I’ve addressed a variety of real-world scenarios, applying SQL to unlock critical insights that drive decision-making and operational improvements. From analyzing customer behaviors to optimizing sales strategies, each solution highlights my ability to transform raw data into valuable business intelligence.
